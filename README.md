@@ -1,2 +1,2 @@
-# Boot-for-WhatsApp
-Boot que envia mensagens automaticamente pelo WhatsApp
+# Boot for WhatsApp
+Boot que envia mensagens automaticamente pelo WhatsApp utilizando Selenium.
